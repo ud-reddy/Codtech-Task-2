@@ -1,4 +1,4 @@
-# Codetech-Task-1
+# Codetech-Task-2
 
 - Name : M UDAY KIRAN REDDY
 - Company : COTECH IT SOLUTIONS
